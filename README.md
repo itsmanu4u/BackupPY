@@ -4,4 +4,4 @@ Python program to backup your Daily work in a compresssed ZIP file at specified 
 
 I've mentioned everything possible, within the script itself for easy understanding and You can make necessary changes accoring to your requirements. Please feel free to suggest or your interest to work together.
 
-Email: mohan.2kit@gmail.com
+Email: techmanu.it@gmail.com
